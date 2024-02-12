@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+MERN Task Manager
+
+Overview
+The MERN Task Manager is a full-stack web application designed to streamline task management, providing users with an intuitive interface to create, organize, and track tasks effortlessly. The application is built using the MERN stack, which includes MongoDB for the database, Express.js for the backend server, React.js for the frontend, and Node.js for server-side JavaScript execution.
+
+Features
+User Authentication: Secure user authentication and authorization to ensure data privacy.
+Task Creation: Create new tasks with details such as title, description, due date, and priority.
+Task Organization: Categorize tasks into different lists or projects for better organization.
+Task Filtering: Efficiently filter tasks based on due date, priority, or completion status.
+Real-time Updates: Utilize the power of WebSockets for real-time updates on task status and changes.
+Responsive Design: A responsive and user-friendly interface accessible from various devices.
+
+
+
